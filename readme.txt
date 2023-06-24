@@ -1,2 +1,5 @@
-É preciso Paramiko instalado:
+Dependencia
+    Paramiko
+```
     $ pip install paramiko
+```
